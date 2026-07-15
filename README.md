@@ -1,4 +1,7 @@
-## Hi there 👋
+## Still working on this one. Come back in a couple of days!
+
+
+[![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats?username=iamhenrique&theme=github_dark)](https://www.readmecodegen.com/leetcode-stats-generator/leetcode-stats-card-generator-for-github)
 
 <!--
 **henriquedpl/henriquedpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
