@@ -3,6 +3,12 @@
 
 [![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats?username=iamhenrique&theme=github_dark)](https://www.readmecodegen.com/leetcode-stats-generator/leetcode-stats-card-generator-for-github)
 
+![Project-euler Badge](https://projecteuler.net/profile/henriqdp.png)
+
+[![Badge](https://cp-logo.vercel.app/codechef/iamhenrique)](https://www.codechef.com/users/iamhenrique)
+[![Badge](https://cp-logo.vercel.app/codeforces/iamhenrique)](https://codeforces.com/profile/iamhenrique)
+
+
 <!--
 **henriquedpl/henriquedpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
