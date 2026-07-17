@@ -5,8 +5,11 @@
 
 ![Project-euler Badge](https://projecteuler.net/profile/henriqdp.png)
 
+[![AtCoder Rating of @iamhenrique](https://atrating.baoshuo.dev/rating?username=iamhenrique&style=for-the-badge)](https://atcoder.jp/users/iamhenrique)
+
 [![Badge](https://cp-logo.vercel.app/codechef/iamhenrique)](https://www.codechef.com/users/iamhenrique)
 [![Badge](https://cp-logo.vercel.app/codeforces/iamhenrique)](https://codeforces.com/profile/iamhenrique)
+
 
 
 <!--
